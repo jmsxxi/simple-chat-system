@@ -1,0 +1,19 @@
+.signup-container {
+  background: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  color: white;
+  padding: 20px 40px;
+  border-radius: 5px;
+}
+
+.signup-components {
+  padding: 3rem;
+}
+
+.signup-components a {
+  text-decoration: none;
+  color: lightblue;
+}
+.login {
+  margin-top: 20px;
+}
